@@ -1,0 +1,13 @@
+{
+  "name": "spacing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tomas Carnecky <tomas.carnecky@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.0"
+  }
+}
